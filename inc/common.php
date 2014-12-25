@@ -13,7 +13,7 @@ class GetresponseMailmunchHelpers {
     }
 
     if (empty($gr_mm_password)) {
-      update_option("gr_mm_user_password", uniqid());
+      update_option("gr_mm_user_password", base64_encode(uniqid()));
     }
 
     $gr_mm_email = get_option("gr_mm_user_email");

@@ -3,7 +3,7 @@
   Plugin Name: GetResponse Forms by MailMunch
   Plugin URI: http://www.mailmunch.co
   Description: The GetResponse plugin allows you to quickly and easily add signup forms for your GetResponse lists. Popup, Embedded, Top Bar and a variety of different options available.
-  Version: 1.0.2
+  Version: 1.0.3
   Author: MailMunch
   Author URI: http://www.mailmunch.co
   License: GPL2
@@ -14,7 +14,7 @@
   require_once( plugin_dir_path( __FILE__ ) . 'inc/sidebar_widget.php' );
 
   define( 'GETRESPONSE_MAILMUNCH_SLUG', "getresponse-mailmunch");
-  define( 'GETRESPONSE_MAILMUNCH_VER', "1.0.2");
+  define( 'GETRESPONSE_MAILMUNCH_VER', "1.0.3");
   define( 'GETRESPONSE_MAILMUNCH_URL', "www.mailmunch.co");
 
   // Create unique WordPress instance ID

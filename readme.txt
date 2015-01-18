@@ -15,6 +15,8 @@ The #1 GetResponse plugin to get more email subscribers. Easily add GetResponse 
 
 What is [GetResponse](http://www.getresponse.com/)? GetResponse is one of the best email marketing tools. Signup up for a [FREE Trial Account](https://secure.getresponse.com/create_trial/) and see for yourself!
 
+[vimeo http://vimeo.com/117103275]
+
 Our improved signup plugin for GetResponse will proactively sign-up new subscribers to your newsletter list. Our forms offer the same basic features that GetResponse's official plugin, but also much more. In addition to the form, analytics will help you track the number of form views and subscriptions.
 
 = Sign-Up Forms =
